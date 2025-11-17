@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".FullScreenImageActivity3">
+
+    <ImageView
+        android:id="@+id/savedImageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitCenter"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.surendramaran.yolov8tflite.OverlayView
+        android:id="@+id/overlayView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnCheckAnswers"
+        android:layout_width="120dp"
+        android:layout_height="102dp"
+        android:background="@color/cardview_shadow_end_color"
+        android:text=""
+        android:textColor="@color/black"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        app:cornerRadius="20dp"
+        app:icon="@drawable/submit"
+        app:iconSize="70dp"
+        app:iconTint="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.974" />
+
+    <Button
+        android:id="@+id/btnRecordScore"
+        android:layout_width="77dp"
+        android:layout_height="62dp"
+        android:layout_below="@id/btnCheckAnswers"
+        android:layout_marginTop="16dp"
+        android:background="@color/cardview_shadow_end_color"
+        android:text=""
+        app:icon="@drawable/history"
+        app:iconSize="37dp"
+        app:iconTint="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.967"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.019" />
+
+    <Button
+        android:id="@+id/btnClearScores"
+        android:layout_width="76dp"
+        android:layout_height="57dp"
+        android:layout_below="@id/btnRecordScore"
+        android:background="@color/cardview_shadow_end_color"
+        android:text=""
+        app:icon="@drawable/delete"
+        app:iconSize="39dp"
+        app:iconTint="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.043" />
+
+    <Button
+        android:id="@+id/btnClearAnswers"
+        android:layout_width="90dp"
+        android:layout_height="65dp"
+        android:layout_below="@id/btnCheckAnswers"
+        android:layout_marginStart="60dp"
+        android:layout_marginBottom="32dp"
+        android:background="@color/cardview_shadow_end_color"
+        android:text=""
+        app:icon="@drawable/clear"
+        app:iconSize="37dp"
+        app:iconTint="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.75"
+        app:layout_constraintStart_toEndOf="@+id/btnCheckAnswers" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

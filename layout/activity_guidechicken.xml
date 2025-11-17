@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/verypaleblue"
+    tools:context=".guidechicken">
+
+    <ScrollView
+        android:layout_width="363dp"
+        android:layout_height="710dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/textView164"
+                    android:layout_width="270dp"
+                    android:layout_height="41dp"
+                    android:background="@color/white"
+                    android:fontFamily="times"
+                    android:text="Tools for Dissection"
+                    android:textAlignment="center"
+                    android:textColor="@color/merigold"
+                    android:textSize="25dp"
+                    android:textStyle="bold"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.625"
+                    app:layout_constraintStart_toStartOf="parent" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:background="@color/paleblue"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent">
+
+                <ImageView
+                    android:id="@+id/imageView13"
+                    android:layout_width="132dp"
+                    android:layout_height="174dp"
+                    android:background="@color/white"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toStartOf="@+id/textView165"
+                    app:layout_constraintHorizontal_bias="0.64"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.504"
+                    app:srcCompat="@drawable/scapelss" />
+
+                <TextView
+                    android:id="@+id/textView165"
+                    android:layout_width="189dp"
+                    android:layout_height="277dp"
+                    android:layout_marginStart="161dp"
+                    android:layout_marginTop="24dp"
+                    android:fontFamily="times"
+                    android:text="                                    are useful for the cutting and dissection of various tissues. Some of them have a unique design for cutting fine and delicate tissues. The sharp blade scissors are useful for cutting dense tissues."
+                    android:textColor="@color/black"
+
+                    android:textSize="18dp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.0" />
+
+                <TextView
+                    android:id="@+id/textView59"
+                    android:layout_width="168dp"
+                    android:layout_height="32dp"
+                    android:layout_marginStart="161dp"
+                    android:layout_marginTop="24dp"
+                    android:layout_marginEnd="109dp"
+                    android:layout_marginBottom="206dp"
+                    android:text="Dissecting Scissors:"
+                    android:textColor="@color/black"
+                    android:textSize="18dp"
+                    android:textStyle="bold"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.0" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:background="@color/paleblue"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent">
+
+                <ImageView
+                    android:id="@+id/scal2"
+                    android:layout_width="132dp"
+                    android:layout_height="174dp"
+                    android:layout_marginStart="16dp"
+                    android:background="@color/white"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/scall" />
+
+                <TextView
+                    android:id="@+id/scalpeltext"
+                    android:layout_width="158dp"
+                    android:layout_height="227dp"
+                    android:layout_marginStart="161dp"
+                    android:layout_marginTop="24dp"
+                    android:fontFamily="times"
+                    android:text="               is the most precise tool for tissue dissection and, in comparison to scissors or blunt dissection, causes the least trauma to surrounding tissue."
+                    android:textColor="@color/black"
+                    android:textSize="18dp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.0" />
+
+                <TextView
+                    android:id="@+id/scalpel"
+                    android:layout_width="77dp"
+                    android:layout_height="31dp"
+                    android:layout_marginStart="161dp"
+                    android:layout_marginTop="24dp"
+                    android:layout_marginEnd="109dp"
+                    android:layout_marginBottom="206dp"
+                    android:text="Scalpel:"
+                    android:textColor="@color/black"
+                    android:textSize="18dp"
+                    android:textStyle="bold"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.0" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:background="@color/paleblue"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent">
+
+                <ImageView
+                    android:id="@+id/pinsimage"
+                    android:layout_width="132dp"
+                    android:layout_height="174dp"
+                    android:layout_marginStart="16dp"
+                    android:background="@color/white"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/pin" />
+
+                <TextView
+                    android:id="@+id/pinstext"
+                    android:layout_width="162dp"
+                    android:layout_height="264dp"
+                    android:layout_marginStart="161dp"
+                    android:layout_marginTop="24dp"
+                    android:fontFamily="times"
+                    android:text="                  Featuring smooth, sharp points and accurately formed heads, these sturdy, nickel-plated dissecting pins are useful for pinning loose flaps of skin and positioning limbs."
+                    android:textColor="@color/black"
+                    android:textSize="18dp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.0" />
+
+                <TextView
+                    android:id="@+id/pins"
+                    android:layout_width="159dp"
+                    android:layout_height="30dp"
+                    android:layout_marginStart="161dp"
+                    android:layout_marginTop="24dp"
+                    android:layout_marginEnd="109dp"
+                    android:layout_marginBottom="206dp"
+                    android:text="Dissecting Pins:"
+                    android:textColor="@color/black"
+                    android:textSize="18dp"
+                    android:textStyle="bold"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.0" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:background="@color/paleblue"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent">
+
+                <ImageView
+                    android:id="@+id/forcepsimage"
+                    android:layout_width="132dp"
+                    android:layout_height="174dp"
+                    android:layout_marginStart="16dp"
+                    android:background="@color/white"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/forcep" />
+
+                <TextView
+                    android:id="@+id/forcepstext"
+                    android:layout_width="162dp"
+                    android:layout_height="342dp"
+                    android:layout_marginStart="161dp"
+                    android:layout_marginTop="24dp"
+                    android:fontFamily="times"
+                    android:text="                 There are different styles of forceps to suit many applications where grasping or handling tissues and specimens is required, such as surgery, post mortem, veterinary and dental labs as well as dissection of tissue samples and also general lab use."
+                    android:textColor="@color/black"
+                    android:textSize="18dp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.0" />
+
+                <TextView
+                    android:id="@+id/forceps"
+                    android:layout_width="81dp"
+                    android:layout_height="24dp"
+                    android:layout_marginStart="161dp"
+                    android:layout_marginTop="24dp"
+                    android:layout_marginEnd="109dp"
+                    android:layout_marginBottom="206dp"
+                    android:text="Forceps:"
+                    android:textColor="@color/black"
+                    android:textSize="18dp"
+                    android:textStyle="bold"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.0" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:background="@color/paleblue"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent">
+
+                <ImageView
+                    android:id="@+id/glovesimage"
+                    android:layout_width="132dp"
+                    android:layout_height="174dp"
+                    android:layout_marginStart="16dp"
+                    android:background="@color/white"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/gloc" />
+
+                <TextView
+                    android:id="@+id/glovesstext"
+                    android:layout_width="163dp"
+                    android:layout_height="197dp"
+                    android:layout_marginStart="161dp"
+                    android:layout_marginTop="24dp"
+                    android:fontFamily="times"
+                    android:text="              are an important part of the personal safety gear for students and instructors in the human anatomy and physiology laboratory. "
+                    android:textColor="@color/black"
+                    android:textSize="18dp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.0" />
+
+                <TextView
+                    android:id="@+id/gloves"
+                    android:layout_width="67dp"
+                    android:layout_height="31dp"
+                    android:layout_marginStart="161dp"
+                    android:layout_marginTop="24dp"
+                    android:layout_marginEnd="109dp"
+                    android:layout_marginBottom="206dp"
+                    android:text="Gloves:"
+                    android:textColor="@color/black"
+                    android:textSize="18dp"
+                    android:textStyle="bold"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.0" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:background="@color/paleblue"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent">
+
+                <ImageView
+                    android:id="@+id/towelsimage"
+                    android:layout_width="132dp"
+                    android:layout_height="174dp"
+                    android:layout_marginStart="16dp"
+                    android:background="@color/white"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/towelss" />
+
+                <TextView
+                    android:id="@+id/towelstext"
+                    android:layout_width="163dp"
+                    android:layout_height="280dp"
+                    android:layout_marginStart="161dp"
+                    android:layout_marginTop="24dp"
+                    android:fontFamily="times"
+                    android:text="                                   is a sterile, absorbent fabric used in surgical procedures. It provides a clean surface for organizing and handling tools, tissues, and specimens during dissections or surgeries."
+                    android:textColor="@color/black"
+                    android:textSize="18dp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.0" />
+
+                <TextView
+                    android:id="@+id/towels"
+                    android:layout_width="163dp"
+                    android:layout_height="23dp"
+                    android:layout_marginStart="161dp"
+                    android:layout_marginTop="24dp"
+                    android:layout_marginEnd="109dp"
+                    android:layout_marginBottom="206dp"
+                    android:text="Dissecting Towel:"
+                    android:textColor="@color/black"
+                    android:textSize="18dp"
+                    android:textStyle="bold"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.0" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="388dp"
+                android:layout_marginTop="10dp"
+                android:background="@color/paleblue"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent">
+
+                <ImageView
+                    android:id="@+id/apronimage"
+                    android:layout_width="138dp"
+                    android:layout_height="267dp"
+                    android:layout_marginStart="16dp"
+                    android:background="@color/white"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/coat" />
+
+                <TextView
+                    android:id="@+id/aprontext"
+                    android:layout_width="184dp"
+                    android:layout_height="354dp"
+                    android:layout_marginStart="161dp"
+                    android:layout_marginTop="24dp"
+                    android:fontFamily="times"
+                    android:text="                  is a long-sleeved, buttoned protective garment made of cotton or polyester blends, worn in labs to shield clothing and skin from hazardous spills, commonly featuring pockets for tools and used to ensure safety and cleanliness in scientific, medical, and research settings."
+                    android:textColor="@color/black"
+                    android:textSize="18dp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.0" />
+
+                <TextView
+                    android:id="@+id/apron"
+                    android:layout_width="168dp"
+                    android:layout_height="28dp"
+                    android:layout_marginStart="161dp"
+                    android:layout_marginTop="24dp"
+                    android:layout_marginEnd="109dp"
+                    android:layout_marginBottom="206dp"
+                    android:text="Lab Coat:"
+                    android:textColor="@color/black"
+                    android:textSize="18dp"
+                    android:textStyle="bold"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.0" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="293dp"
+                android:layout_marginTop="10dp"
+                android:background="@color/paleblue"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent">
+
+                <ImageView
+                    android:id="@+id/trayimage"
+                    android:layout_width="136dp"
+                    android:layout_height="205dp"
+                    android:layout_marginStart="16dp"
+                    android:background="@color/white"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/trays" />
+
+                <TextView
+                    android:id="@+id/traytext"
+                    android:layout_width="184dp"
+                    android:layout_height="354dp"
+                    android:layout_marginStart="161dp"
+                    android:layout_marginTop="24dp"
+                    android:fontFamily="times"
+                    android:text="                            is a shallow tray with a wax or silicone bottom that securely holds specimens with pins during dissection, providing stability and containing fluids for accurate examination."
+                    android:textColor="@color/black"
+                    android:textSize="18dp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.0" />
+
+                <TextView
+                    android:id="@+id/tray"
+                    android:layout_width="168dp"
+                    android:layout_height="28dp"
+                    android:layout_marginStart="161dp"
+                    android:layout_marginTop="24dp"
+                    android:layout_marginEnd="109dp"
+                    android:layout_marginBottom="206dp"
+                    android:text="Dissecting Pan:"
+                    android:textColor="@color/black"
+                    android:textSize="18dp"
+                    android:textStyle="bold"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.0" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView35"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="155dp"
+                android:background="@color/white"
+                android:fontFamily="times"
+                android:text="Preparations:"
+                android:textColor="@color/merigold"
+                android:textSize="22dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView36"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="15dp"
+                android:justificationMode="inter_word"
+                android:text="The chickens to be dissected should not have access to any type of food for about 6-8 hours. However,
+access to drinking water until catching them is advisable, especially in hot climates so that the animals do
+not suffer unnecessarily. Respecting these to advices will prevent the presence of food in the tract when
+this part is removed, thus risking to have unclean dissection"
+                android:textColor="@color/black"
+                android:textSize="18dp" />
+
+            <TextView
+                android:id="@+id/textView49"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginRight="130dp"
+                android:background="@color/white"
+                android:fontFamily="times"
+                android:text="The Procedure:"
+                android:textColor="@color/merigold"
+                android:textSize="22dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView50"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="15dp"
+                android:justificationMode="inter_word"
+                android:text="Make sure the head of the bird is positioned downward so that the blood can flow down easily, and
+preferably in such a way that the rest of the body is well secured. Best is to use a cone (funnel) with a hole
+in the bottom to get access to the head to apply the bleeding cut, whereby the bird's wings cannot flap thus
+preventing also that blood would remain in the wing tips afterwards. It is important to try to drain as
+much of the blood as possible, without causing damage to the body.
+The best method and most human way to kill the animals is to cut the jugular veins with a sharpest
+possible knife. This way they will quickly loose consciousness because the blood is drained from the head
+within seconds after the cut. Allow app. 1.5 - 2 minutes of draining in order to get the best possible
+bleeding.
+Cutting off the head of the bird completely will result in less bleeding. Moreover, the plucking afterwards
+will also be more difficult"
+                android:textColor="@color/black"
+                android:textSize="18dp" />
+
+            <TextView
+                android:id="@+id/textView51"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginRight="210dp"
+                android:background="@color/white"
+                android:fontFamily="times"
+                android:text="Skinning:"
+                android:textColor="@color/merigold"
+                android:textSize="22dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView52"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="15dp"
+                android:justificationMode="inter_word"
+                android:text="Slightly remove the skin the specimen using a fine scalpel to avoid the reaping off of the muscle of the
+chicken. And, identify the parts of the muscles based on the provided guide below"
+                android:textColor="@color/black"
+                android:textSize="18dp" />
+
+            <TextView
+                android:id="@+id/textView53"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginRight="100dp"
+                android:background="@color/white"
+                android:fontFamily="times"
+                android:text="The Scalding and plucking process:"
+                android:textColor="@color/merigold"
+                android:textSize="22dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView54"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="15dp"
+                android:justificationMode="inter_word"
+                android:text="Scalding means the passing of the bird through hot water after they have been killed and bled, which is
+normally done to prepare the epidermis (upper skin), so that the feathers come off more chicken being
+plucked easily. Immersing them in a bucket with warm water of about 60 degrees Celsius (140 F) for app.
+45 -60 seconds will be sufficient. The aim of scalding is to open the follicles (in which the shaft of the
+feather is held), so that these can be removed easily.
+Plucking should be started immediately after the scalding, since otherwise the effect of scalding is lost for
+a big part and also the bird will become stiff. If the scalding was done properly it should not be very
+difficult to remove all the pinfeathers, although this can sometimes be a time consuming process,
+especially with ducks"
+                android:textColor="@color/black"
+                android:textSize="18dp" />
+
+            <TextView
+                android:id="@+id/textView55"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginRight="170dp"
+                android:background="@color/white"
+                android:fontFamily="times"
+                android:text="Evisceration:"
+                android:textColor="@color/merigold"
+                android:textSize="22dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView56"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginBottom="15dp"
+                android:justificationMode="inter_word"
+                android:text="Evisceration basically means removing everything inside the body plus the head and feet.
+To remove the head, make a cut around the neck just behind the head, and twist. Set aside the head and
+reserve later for the brain parts identification. Using a scalpel, the chicken must be cut through the keel in
+the midventral line revealing the internal organs.
+You should be careful not to cut the intestine so that the other internal organs will not be soiled with fecal
+material. When the abdomen is opened and have identified/ located the venous and arterial systems, the
+viscera can be removed through the opening for easy identification of the other parts. It is very important
+to remove all the viscera, including the lungs which are attached to the back. Please be careful to remove
+the internal organs that are connected to each other. Connective and fatty that are clinging to the organs
+must be removed.
+When all the contents of the cavity have been removed the bird should be washed to remove a lot of blood
+and for easy identification.
+When the viscera have been removed from the chicken, the heart, shall also be separated and set aside for
+identification of parts. The ends of any parts of the vascular system that may be attached to the heart
+should be analyzed. The heart must be observed properly. Afterwards, identify the other internal body"
+                android:textColor="@color/black"
+                android:textSize="18dp" />
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/guideback"
+        android:layout_width="64dp"
+        android:layout_height="60dp"
+        android:backgroundTint="@color/vividblue"
+        android:text="O"
+        app:icon="@drawable/back"
+        app:iconSize="19dp"
+        app:iconTint="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.02"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.009" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
