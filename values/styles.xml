@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="LinkTextStyle">
+        <item name="android:textColorLink">@color/blue</item>
+    </style>
+
+    <style name="MenuTitleTextStyle" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="CustomAlertDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:background">#FFFFFF</item> <!-- White background -->
+        <item name="android:textColorPrimary">#000000</item> <!-- Black text -->
+    </style>
+
+    <style name="CustomAlertDialogTheme2" parent="Theme.Material3.Light.Dialog.Alert">
+        <item name="colorBackgroundFloating">@color/dialogBackground</item>
+        <item name="android:windowBackground">@color/dialogBackground</item>
+        <item name="android:windowElevation">8dp</item>
+        <item name="android:windowMinWidthMajor">85%</item>
+        <item name="android:windowMinWidthMinor">85%</item>
+        <item name="android:textColorPrimary">@color/dialogText</item>
+    </style>
+
+    <style name="CustomAlertDialogTheme" parent="Theme.MaterialComponents.Light.Dialog.Alert">
+        <item name="android:background">@color/lightBlue</item>
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="android:windowMinWidthMajor">80%</item>
+        <item name="android:windowMinWidthMinor">80%</item>
+    </style>
+
+    <style name="DialogAnimation">
+        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+    </style>
+
+</resources>

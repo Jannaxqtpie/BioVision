@@ -1,0 +1,152 @@
+<resources>
+    <string name="app_name">BioVision</string>
+
+    <string name="link">
+        HEART:In the ventricle, the three chambered frog heart combines blood that has been oxygenated and deoxygenated. As a result, the body never gets enough blood that is rich in oxygen (NSF, (n.d).
+        <a href="https://www.nsf.gov/news/news_images.jsp?cntn_id=115520"> Secrets of the Four Chambers Revealed by Reptile Hearts- All Images | NSF - National Science Foundation. (n.d.).</a>
+    </string>
+
+    <string name="link1">
+        LIVER:secretes bile and breaks down the molecules of food (Gall, (n.d)).
+        <a href="https://slideplayer.com/slide/12941124/?fbclid=IwY2xjawF8no5leHRuA2FlbQIxMAABHTaUOwA26X-eUgldQvaKJmB4U0nFdPnpBif11FU4WiDFKxoF9C2kfq6fQA_aem_yUX1JQ43CPtvh2qobMhKjw"> Gall. (n.d.). Frog Body Parts and Functions. Ppt Download.</a>
+    </string>
+
+    <string name="link25">
+        FAT-BODIES:fat masses inside frogs bodily chambers. essential for both mating and hibernation (Gall, (n.d)).
+        <a href="https://slideplayer.com/slide/12941124/?fbclid=IwY2xjawF8no5leHRuA2FlbQIxMAABHTaUOwA26X-eUgldQvaKJmB4U0nFdPnpBif11FU4WiDFKxoF9C2kfq6fQA_aem_yUX1JQ43CPtvh2qobMhKjw"> Gall. (n.d.). Frog Body Parts and Functions. Ppt Download.</a>
+    </string>
+
+    <string name="link2">
+        STOMACH:combines food with enzymes and stores it before digestion may start (Gall, (n.d)).
+        <a href="https://slideplayer.com/slide/12941124/?fbclid=IwY2xjawF8no5leHRuA2FlbQIxMAABHTaUOwA26X-eUgldQvaKJmB4U0nFdPnpBif11FU4WiDFKxoF9C2kfq6fQA_aem_yUX1JQ43CPtvh2qobMhKjw"> Gall. (n.d.). Frog Body Parts and Functions. Ppt Download.</a>
+    </string>
+
+    <string name="link3">
+        SPLEEN:The frogs circulatory system has an organ that produces stores, and eliminates blood cells (Gall, (n.d)).
+        <a href="https://slideplayer.com/slide/12941124/?fbclid=IwY2xjawF8no5leHRuA2FlbQIxMAABHTaUOwA26X-eUgldQvaKJmB4U0nFdPnpBif11FU4WiDFKxoF9C2kfq6fQA_aem_yUX1JQ43CPtvh2qobMhKjw"> Gall. (n.d.). Frog Body Parts and Functions. Ppt Download.</a>
+    </string>
+
+    <string name="link4">
+        LARGE INTESTINE:the digestive systems posterior organ, which keeps undigested food (Gall, (n.d)).
+        <a href="https://slideplayer.com/slide/12941124/?fbclid=IwY2xjawF8no5leHRuA2FlbQIxMAABHTaUOwA26X-eUgldQvaKJmB4U0nFdPnpBif11FU4WiDFKxoF9C2kfq6fQA_aem_yUX1JQ43CPtvh2qobMhKjw"> Gall. (n.d.). Frog Body Parts and Functions. Ppt Download. </a>
+    </string>
+
+    <string name="link5">
+        SMALL INTESTINE:the primary organ involved in food digestion and absorption (Gall, (n.d)).
+        <a href="https://slideplayer.com/slide/12941124/?fbclid=IwY2xjawF8no5leHRuA2FlbQIxMAABHTaUOwA26X-eUgldQvaKJmB4U0nFdPnpBif11FU4WiDFKxoF9C2kfq6fQA_aem_yUX1JQ43CPtvh2qobMhKjw"> Gall. (n.d.). Frog Body Parts and Functions. Ppt Download.</a>
+    </string>
+
+    <string name="link6">
+        GALLBLADDER:A muscular, pear-shaped storage sac, the gallbladder is attached to the liver through ducts called the biliary tract and stores bile (Lindenmeyer, 2022).
+        <a href="https://www.msdmanuals.com/home/liver-and-gallbladder-disorders/biology-of-the-liver-and-gallbladder/gallbladder-and-biliary-tract">  Lindenmeyer, C. C. (2022, September 12). Gallbladder and Biliary Tract. MSD Manual Consumer Version. </a>
+    </string>
+
+    <string name="link7">
+        LUNGS:The glottis serves as an aperture connecting the mouth to a pair of thin-walled sacs that make up the frogs lungs (Libretexts, 2022).
+        <a href="https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Biology_(Kimball)/15%3A_The_Anatomy_and_Physiology_of_Animals/15.02%3A_Gas_Exchange/15.2C%3A_Vertebrate_Lungs#:~:text=The%20frog's%20lungs%20are%20a,filling%20its%20mouth%20with%20air"> Libretexts. (2022, May 14). 15.2C: Vertebrate Lungs. Biology LibreTexts. </a>
+    </string>
+
+    <string name="link8">
+        HEART:The function of the heart in chickens is to support their high metabolic needs, enabling activities like running, flying short distances, and other energy-intensive behaviors (5 Answers from Research papers. (n.d.)).
+        <a href="https://typeset.io/questions/what-is-the-function-of-the-heart-in-chickens-4j55rsd8fn"> What is the function of the heart in chickens? | 5 Answers from Research papers. (n.d.). SciSpace - Question. </a>
+    </string>
+
+    <string name="link9">
+        LIVER:Chicken liver is nutritious organ meat derived from chickens. The liver is a nutritional powerhouse since it stores vital vitamins and minerals and removes pollutants from the body (Chicken Liver. (n.d.)).
+        <a href="https://www.damaco-group.com/en/frozen-food-products/meat-products/chicken/chicken-liver/chicken-liver#:~:text=Chicken%20liver%20is%20nutritious%20organ,it%20a%20powerhouse%20of%20nutrients"> Chicken Liver. (n.d.). Kipco-Damaco Group. </a>
+    </string>
+
+    <string name="link10">
+        LUNGS:Chicken lungs are securely linked to the ribs, are relatively small, and are not able to expand. In contrast to the chest muscles and sternum of mammals, the diaphragm, chest muscles, and sternum (keel) of birds are not fully developed (Small and backyard poultry. (n.d.)).
+        <a href="https://poultry.extension.org/articles/poultry-anatomy/avian-respiratory-system/#:~:text=Chicken%20lungs%20are%20relatively%20small,chest%20muscles%20and%20sternum%20do"> AVIAN RESPIRATORY SYSTEM – Small and backyard poultry. (n.d.). </a>
+    </string>
+
+    <string name="link11">
+        GALLBLADDER:Under the spleen on the right lobe is the gall bladder. One of the two bile ducts that exit from the right lobe comes from the gall bladder, whereas the other one connects the liver directly to the small intestine. The left and right lobes are connected by a network of ducts (Poultry Hub Australia, 2020).
+        <a href="https://www.poultryhub.org/anatomy-and-physiology/body-systems/digestive-system#:~:text=The%20gall%20bladder%20lies%20on,the%20right%20and%20left%20lobes"> Poultry Hub Australia. (2020, June 10). Digestive system - Poultry Hub Australia. </a>
+    </string>
+
+    <string name="link12">
+        SLPEEN:Although there are physiological and anatomical differences between the spleens of birds and mammals, the spleen is an important organ of the immune system in both species. The size of the spleen in birds can be used as a gauge of the immune systems reaction to various stimuli (Vali, et.al, 2023).
+        <a href="https://doi.org/10.3389/fvets.2023.1153582"> Vali, Y., Gumpenberger, M., Konicek, C., Bagheri, S. (2023). Computed tomography of the spleen in chickens. Frontiers in Veterinary Science, 10.  </a>
+    </string>
+
+    <string name="link13">
+        GIZZARD:The muscular stomach, or gizzard, is positioned directly after the proventriculus, nestled partly between the liver lobes and partly behind the left liver lobe. It has a flattened, rounded shape similar to a convex lens, with one side slightly larger than the other. Each surface is coated with a glossy layer of tendinous tissue, thickest at the center and gradually thinning toward the edges absorption (Poultry Hub Australia, 2020).
+        <a href="https://www.poultryhub.org/anatomy-and-physiology/body-systems/digestive-system#:~:text=The%20gall%20bladder%20lies%20on,the%20right%20and%20left%20lobes"> Poultry Hub Australia. (2020, June 10). Digestive system - Poultry Hub Australia. </a>
+    </string>
+
+    <string name="link14">
+        LARGE INTESTINE:The large intestine is relatively short, with a similar diameter to the small intestine. It runs nearly in a straight line below the vertebrae, ending at the cloaca. This section is sometimes referred to as the colon and rectum, with the rectum as the terminal segment absorption (Poultry Hub Australia, 2020).
+        <a href=""> Poultry Hub Australia. (2020, June 10). Digestive system - Poultry Hub Australia. </a>
+    </string>
+
+    <string name="link15">
+        SMALL INTESTINE:The small intestine plays a crucial role in digestion, producing essential enzymes, and serving as the primary site for both food digestion and nutrient absorption (Poultry Hub Australia, 2020).
+        <a href="https://www.poultryhub.org/anatomy-and-physiology/body-systems/digestive-system#:~:text=The%20gall%20bladder%20lies%20on,the%20right%20and%20left%20lobes"> Poultry Hub Australia. (2020, June 10). Digestive system - Poultry Hub Australia. </a>
+    </string>
+
+    <string name="link16">
+        HEART:keeps the blood flowing through the body. The blood carries waste products from the cells to the kidneys and liver for removal, and it carries oxygen and nutrients that have been digested to the cells of different organs (Parenti, et,al, 2024).
+        <a href="https://www.britannica.com/animal/fish/The-digestive-system"> Parenti, L. R.,  Weitzman, S. H. (2024, September 29). Fish | Definition, Species, Classification,  Facts. Encyclopedia Britannica.</a>
+    </string>
+
+    <string name="link17">
+        LIVER:It acts as a storage space for fats and carbohydrates and aids in digestion by secreting enzymes that break down fats. The liver also plays a part in the excretion of nitrogen (waste) and is crucial for the breakdown of old blood cells and maintaining appropriate blood chemistry (Parenti, et,al, 2024).
+        <a href="https://www.britannica.com/animal/fish/The-digestive-system"> Parenti, L. R., Weitzman, S. H. (2024, September 29). Fish | Definition, Species, Classification,  Facts. Encyclopedia Britannica.</a>
+    </string>
+
+    <string name="link18">
+        GILLS:Fish breathe through their gills, which are highly vascularized and give them their vivid red color chemistry (Parenti, et,al, 2024).
+        <a href="https://www.britannica.com/animal/fish/The-digestive-system"> Parenti, L. R., Weitzman, S. H. (2024, September 29). Fish | Definition, Species, Classification,  Facts. Encyclopedia Britannica.</a>
+    </string>
+
+    <string name="link19">
+        STOMACH: Fish stomachs differ significantly based on what they eat. It is a straightforward tube or pouches with a muscular wall and a glandular lining seen in the majority of predatory fishes. There, food is mostly broken down and expelled from the stomach in liquid form chemistry (Parenti, et,al, 2024).
+        <a href="https://www.britannica.com/animal/fish/The-digestive-system"> Parenti, L. R., Weitzman, S. H. (2024, September 29). Fish | Definition, Species, Classification,  Facts. Encyclopedia Britannica.</a>
+    </string>
+
+    <string name="link20">
+        INTESTINE:The length of the gut varies greatly depending on the nutrition of the fish. The primary function of the gut is to absorb nutrients into the bloodstream (Parenti, et,al, 2024).
+        <a href="https://www.britannica.com/animal/fish/The-digestive-system"> Parenti, L. R., Weitzman, S. H. (2024, September 29). Fish | Definition, Species, Classification, Facts. Encyclopedia Britannica.</a>
+    </string>
+
+    <string name="link21">
+        SPLEEN: - One of the main peripheral lymphoid organs in fish is the spleen. The fish spleen enables immunocompetent cells close interaction and antigen processing and entrapment (Zapata, 2024).
+        <a href="https://www.sciencedirect.com/science/article/pii/S1050464823007660#:~:text=The%20spleen%20is%20a%20major,remarkable%20features%20of%20fish%20spleen."> Zapata (2024, January). Fish  Shellfish Immunology. </a>
+    </string>
+
+    <string name="link22">
+        GALLBLADDER:The gallbladder stores and concentrates bile from the liver, releasing it into the first section of the small intestine, the duodenum, where it aids in breaking down and absorbing fats from food (IQWiG, 2021).
+        <a href="https://www.ncbi.nlm.nih.gov/books/NBK279386/#:~:text=The%20gallbladder%20stores%20and%20concentrates,and%20absorb%20fats%20from%20food."> Institute for Quality and Efficiency in Health Care (IQWiG). (2021, April 27). In brief: How does the gallbladder work? InformedHealth.org - NCBI Bookshelf. </a>
+    </string>
+
+    <string name="link23">
+        SWIMBLADDER:Fish are able to preserve energy by maintaining neutral buoyancy (suspending) in the water because of this hollow, gas-filled balancing organ (The Internal and External Anatomy of Florida Fish, 2023).
+        <a href="https://www.visitflorida.com/travel-ideas/articles/florida-fishing-internal-and-external-anatomy-of-a-fish/?fbclid=IwY2xjawF8skFleHRuA2FlbQIxMAABHbFk37hccIiPI2NV3h2XMXCYKuaI62K2meAY-0jq_GALEg9hL4ImnCPbFA_aem_lwTEbN7b8blAPkpZ4kmJWQ"> The Internal and External Anatomy of Florida Fish. (2023, January 14). </a>
+    </string>
+
+    <string name="link24">
+        KIDNEY: The two kidneys in domestic poultry make up the excretory system. The ureters in each kidney transport the urine the kidneys generate to the cloaca, where it is expelled from the body. An animal becomes debilitated and frequently dies rapidly when the kidneys are sick or injured and cannot function effectively (Poultry Hub Australia, 2021).
+        <a href="https://www.poultryhub.org/anatomy-and-physiology/body-systems/excretory-system#:~:text=The%20excretory%20system%20in%20the,where%20it%20leaves%20the%20body"> Poultry Hub Australia. (2021, January 14). Excretory system - Poultry Hub Australia.  </a>
+    </string>
+
+    <string name="link26">
+        OVARY:The ovary is a paired structure that is located near the kidneys. The mesovarium is a peritoneal fold that surrounds the kidneys and contains these yellow-colored structures. They create ova during the oogenesis process. Nearly 2500–3000 ova are released all at once by a mature female.
+        <a href="https://byjus.com/neet/urogenital-system-of-a-frog/#:~:text=The%20common%20structures%20in%20both,open%20separately%20into%20the%20cloaca."> Admin. (2023, September 6). Urogenital system of a frog - A brief overview. BYJUS.</a>
+    </string>
+
+    <string name="title_activity_drawer_nav">DrawerNav</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Menu</string>
+    <string name="menu_gallery">References</string>
+    <string name="menu_slideshow">About</string>
+
+
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bounding_box_color">#FF0000</color>
+    <color name="lightgrey">#D3D3D3</color>
+    <color name="blue">#006BBB</color>
+    <color name="lightblue">#30A0E0</color>
+    <color name="lightorange">#FFC872</color>
+    <color name="lightpink">#FFE3B3</color>
+    <color name="softblue">#4BB6E8</color>
+    <color name="verylightblue">#76D1FF</color>
+    <color name="vividblue">#2AB7FF</color>
+    <color name="paleblue">#A9E2FF</color>
+    <color name="verypaleblue">#C3EBFF</color>
+    <color name="very_light_blue">#E0F7FA</color> <!-- Very light blue color -->
+    <color name="very_light_gray">#F5F5F5</color>
+    <color name="azure">#8080FF</color>
+    <color name="highblue">#3271a5</color>
+    <color name="merigold">#fcae1e</color>
+
+    <color name="dialogBackground">#FFFFFF</color>  <!-- Light Gray or White -->
+    <color name="dialogText">#333333</color>  <!-- Dark Gray -->
+    <color name="accentColor">#6200EE</color>  <!-- Purple Accent -->
+    <color name="errorColor">#D32F2F</color>  <!-- Red for Warnings -->
+
+    <color name="lightBlue">#30A0E0</color>
+
+
+
+
+
+
+
+</resources>
